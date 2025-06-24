@@ -1,5 +1,7 @@
 # Flipkart Web Scraping & Product Analysis
 
+Dynamic Dashboard Link - https://public.tableau.com/app/profile/chetanmalviya513/viz/FlipcartMobailAnalysis/Dashboard1
+
 This repository contains scripts and analysis for scraping product data from Flipkart and performing detailed product analysis. The project helps to extract real-time product information such as prices, ratings, discounts, and reviews to gain market insights and understand consumer trends.
 
 # Features
